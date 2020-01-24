@@ -1,0 +1,56 @@
+.container {
+  border-radius: 20%;
+
+  color: black;
+  background-color: ;
+  margin: 5% 80%;
+
+  list-style: none;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: small;
+}
+
+h2 {
+  border-radius: 35%;
+  text-align: center;
+  background-color: ;
+}
+
+h5 {
+}
+
+h5:hover {
+}
+
+ul {
+  counter-reset: item;
+}
+.listy {
+  align-items: center;
+}
+
+#liststruct {
+  align-items: center;
+}
+
+li:hover {
+  cursor: pointer;
+  color: white;
+  background-color: rgb(56, 10, 116);
+  width: fit-content;
+}
+
+#post {
+  width: 200px;
+  text-align: center;
+  color: greenyellow;
+  margin: -5% 10%;
+}
+
+#post:hover {
+  border-radius: 12%;
+  border: 0.4px solid yellowgreen;
+  color: black;
+  cursor: crosshair;
+}
