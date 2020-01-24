@@ -1,0 +1,15 @@
+html {
+  background-color: ;
+}
+
+.jumbotron {
+  margin: 0 20%;
+  background-image: url(https://i.gifer.com/VIcP.gif);
+  cursor: pointer;
+}
+
+.jumbotron:hover {
+  background-image: url(https://steamuserimages-a.akamaihd.net/ugc/865115722134725336/94260C7C654116AB9D7771ACD3267E17800896D4/);
+  color: white;
+  cursor: pointer;
+}
