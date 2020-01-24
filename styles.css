@@ -48,6 +48,7 @@ li:hover {
 }
 
 #post {
+  background-color: black;
   width: 200px;
   text-align: center;
   color: greenyellow;
@@ -55,6 +56,7 @@ li:hover {
 }
 
 #post:hover {
+  background-color: chartreuse;
   border-radius: 12%;
   border: 0.4px solid yellowgreen;
   color: black;
