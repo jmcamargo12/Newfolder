@@ -1,3 +1,9 @@
+.col-12 {
+  background-color: black;
+  width: fit-content;
+  height: 2px;
+}
+
 .container {
   border-radius: 20%;
 
@@ -45,7 +51,7 @@ li:hover {
   width: 200px;
   text-align: center;
   color: greenyellow;
-  margin: -5% 10%;
+  margin: 0% 10%;
 }
 
 #post:hover {
@@ -53,4 +59,9 @@ li:hover {
   border: 0.4px solid yellowgreen;
   color: black;
   cursor: crosshair;
+}
+.col {
+  background-image: url(https://farm3.static.flickr.com/2488/4203229625_5f837804fd_o.gif);
+  width: fit-content;
+  height: 30px;
 }
