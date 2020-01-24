@@ -3,7 +3,7 @@ alert(wel);
 var welcome = "My name is Jonathan, but people around here call me Mc.Fly!";
 alert(welcome);
 
-var declaration = "Im the developer of this quiz you are about to take.";
+var declaration = "I'm the developer of this quiz you are about to take.";
 alert(declaration);
 
 var userName = prompt("What's your name?");
@@ -12,9 +12,9 @@ alert(
     userName +
     " I know someone called " +
     userName +
-    ". Real smart, loves pizza and always has smelly feet, our close friend call that " +
+    ". Real smart, loves pizza and always has smelly feet, another close friend of ours Ben Kenobi, calls our close friend " +
     userName +
-    "boberts the pippen Dixon.."
+    " Boberts the Pippen Dixon."
 );
 
 var ready = confirm("Anyways...are you ready for the quiz?");
