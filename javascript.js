@@ -17,7 +17,7 @@ function timer() {
   if (count <= 0) {
     clearInterval(counter);
     document.getElementById("scoreboard");
-    alert("done");
+    alert("Times Up!");
     return;
   }
 
