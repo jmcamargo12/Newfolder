@@ -108,7 +108,7 @@ var rightAnswer = document
       answer14.innerText = questions[1].choices[3];
 
       document.getElementById("scoreboard").value =
-        "     " + counter++ + "0,000 ";
+        "     " + counter++ + "0,000    Points";
 
       document.getElementById("post").innerHTML = "";
       document.getElementById("correct").innerHTML = "";

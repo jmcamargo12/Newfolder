@@ -16,7 +16,8 @@ function timer() {
   count = count - 1;
   if (count <= 0) {
     clearInterval(counter);
-    //counter ended, do something here
+    document.getElementById("scoreboard");
+    alert("done");
     return;
   }
 
