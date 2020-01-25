@@ -51,6 +51,7 @@ var questions = [
   }
 ];
 
+var counter = 5;
 var questionTag = document.getElementById("questions");
 questionTag.innerText = questions[0].titles;
 
@@ -105,6 +106,9 @@ var rightAnswer = document
 
       var answer14 = document.getElementById("ans4");
       answer14.innerText = questions[1].choices[3];
+
+      document.getElementById("scoreboard").value =
+        "     " + counter++ + "0,000 ";
 
       document.getElementById("post").innerHTML = "";
       document.getElementById("correct").innerHTML = "";

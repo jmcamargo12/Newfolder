@@ -8,7 +8,7 @@ document.getElementById("button").addEventListener("click", function() {
 });
 */
 
-var count = 60;
+var count = 99;
 
 var counter = setInterval(timer, 1000); //1000 will  run it every 1 second
 

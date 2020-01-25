@@ -1,4 +1,4 @@
-var wel = "Hi and Welcome!";
+/*var wel = "Hi and Welcome!";
 alert(wel);
 var welcome = "My name is Jonathan, but people around here call me Mc.Fly!";
 alert(welcome);
